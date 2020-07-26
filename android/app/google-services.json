@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735454842653",
+    "firebase_url": "https://needaid-6471e.firebaseio.com",
+    "project_id": "needaid-6471e",
+    "storage_bucket": "needaid-6471e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735454842653:android:be1cf579eb8a743b559bf4",
+        "android_client_info": {
+          "package_name": "com.sap.needaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735454842653-8e1fap7nnj993sm2da3vhejr6avm8a8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVceJPt1qkQXQU8HFY_GnF45fPtqYoFuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735454842653-8e1fap7nnj993sm2da3vhejr6avm8a8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
